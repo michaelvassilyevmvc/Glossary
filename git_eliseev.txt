@@ -1,8 +1,14 @@
-Less 2
+Less 2 0-30
 ---------------------
 Переносы строк
 
 git config --global core.autocrlf true
 git config --global.savecrlf true
 
+git config --global color.ui true
+
+git init
+git init project
+
+pwd - полный путь до вашего места
 ---------------------
