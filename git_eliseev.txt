@@ -1,0 +1,8 @@
+Less 2
+---------------------
+Переносы строк
+
+git config --global core.autocrlf true
+git config --global.savecrlf true
+
+---------------------
