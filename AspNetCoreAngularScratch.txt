@@ -53,7 +53,21 @@ File -> Settings -> Preference (ctrl + ,)
 
 Les2.4
 ------------------
+cd API
 
+dotnet run
+
+dotnet dev-certs https --trust
+
+localhost:5001/weatherforecast
+
+appsettings.Development.json
+    "Microsoft":"Information"
+
+dotnet run
+
+launchSettings.json
+    "API":{"launchBrowser":false}
 
 
 ------------------
