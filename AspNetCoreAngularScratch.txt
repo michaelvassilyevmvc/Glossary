@@ -1,0 +1,59 @@
+https://hidevs.net/course/build-an-app-with-aspnet-core-and-angular-from-scratch
+
+Les2.2
+------------
+mkdir DatingApp
+
+cd DatingApp
+
+dotnet --info
+
+dotnet -h
+
+dotnet new -h
+
+dotnet new sln
+
+dotnet new webapi -o API
+
+dotnet sln add API
+
+------------------
+
+Les2.3
+------------------
+
+
+Install extensions
+
+C#
+
+ctrl+shift+P  -> asset -> .net:generate
+
+c# extensions (joskreativ)
+
+material -> material icon theme
+
+File -> Auto Save
+
+Preference -> Settings
+
+ctrl + j - show terminal
+
+File -> Settings -> Preference (ctrl + ,)
+    exclude
+        Add pattern
+        **/obj -> ok
+        **/bin -> ok
+    folder
+        Compact Folder -> uncheck
+
+------------------
+
+
+Les2.4
+------------------
+
+
+
+------------------
